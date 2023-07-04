@@ -7,9 +7,8 @@
 # Languages
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") ![](https://img.shields.io/badge/Javascript-007396?style=flat&logo=javascript&logoColor=white")
 
-#Frameworks
-
-![](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white")
+# Frameworks
+![](https://img.shields.io/badge/Spring-007396?style=flat&logo=Spring&logoColor=6DB33F")
 
 
 <!--
