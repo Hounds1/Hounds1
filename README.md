@@ -4,16 +4,10 @@
 
 ![Hounds1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=407&line_height=20&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hounds1&layout=compact&theme=dark&card_width=400)
 
-# Languages
+# Stacks
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white") ![](https://img.shields.io/badge/Javascript-007396?style=flat&logo=javascript&logoColor=white")
-
-# Frameworks
 ![](https://img.shields.io/badge/Spring-007396?style=flat&logo=Spring&logoColor=white") ![](https://img.shields.io/badge/Spring_Boot-007396?style=flat&logo=springboot&logoColor=white")
-
-# DataBase
 ![](https://img.shields.io/badge/oracle-007396?style=flat&logo=oracle&logoColor=F80000") ![](https://img.shields.io/badge/MySQL-007396?style=flat&logo=mysql&logoColor=white") ![](https://img.shields.io/badge/MariaDB-007396?style=flat&logo=mariadb&logoColor=white")
-
-# ETC
 ![](https://img.shields.io/badge/gradle-007396?style=flat&logo=gradle&logoColor=F80000") ![](https://img.shields.io/badge/Maven-007396?style=flat&logo=apachemaven&logoColor=white") ![](https://img.shields.io/badge/git-007396?style=flat&logo=git&logoColor=white")
 <!--
 **Hounds1/Hounds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
