@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/Spring-007396?style=flat&logo=Spring&logoColor=white") ![](https://img.shields.io/badge/Spring_Boot-007396?style=flat&logo=springboot&logoColor=white")
 
 # DataBase
-![](https://img.shields.io/badge/oracle-007396?style=flat&logo=oracle&logoColor=F80000") ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white")
+![](https://img.shields.io/badge/oracle-007396?style=flat&logo=oracle&logoColor=F80000") ![](https://img.shields.io/badge/MySQL-007396?style=flat&logo=mysql&logoColor=white")
 
 <!--
 **Hounds1/Hounds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
