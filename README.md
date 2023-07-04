@@ -2,7 +2,7 @@
 
 
 
-![Hounds1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=422&theme=radical)
+![Hounds1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=422&theme=radical) ![](https://raw.githubusercontent.com/hounds1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ### Hi there 👋
 
 
