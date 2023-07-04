@@ -2,7 +2,7 @@
 
 
 
-![Hounds1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=422&line_height=20&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&card_width=407)
+![Hounds1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=407&line_height=20&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&card_width=407)
 ### Hi there 👋
 
 
