@@ -1,4 +1,4 @@
-<center>[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We+do+work+and+the+world+stays+handy;That's+the+development)](https://git.io/typing-svg)</center>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=We+do+work+and+the+world+stays+handy;That's+the+development)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
