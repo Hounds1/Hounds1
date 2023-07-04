@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white) ![](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) </br>
 
 # Conntect Me
-![](https://img.shields.io/badge/Gmail-#EA4335--zoodisx@gmail.com-blue)
+![](https://img.shields.io/badge/Gmail:zoodisx@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
 
 <!--
 **Hounds1/Hounds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
