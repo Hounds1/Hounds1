@@ -14,7 +14,7 @@
 항상 조금 더 나은 무언가를 만들 수 있길 바랍니다.
 
 
-# Conntect
+# Contact
 ![](https://img.shields.io/badge/Gmail:zoodisx@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
 
 <!--
