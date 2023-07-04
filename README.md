@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/oracle-007396?style=flat&logo=oracle&logoColor=F80000") ![](https://img.shields.io/badge/MySQL-007396?style=flat&logo=mysql&logoColor=white") ![](https://img.shields.io/badge/MariaDB-007396?style=flat&logo=mariadb&logoColor=white")
 
 # ETC
-![](https://img.shields.io/badge/gradle-007396?style=flat&logo=gradle&logoColor=F80000")
+![](https://img.shields.io/badge/gradle-007396?style=flat&logo=gradle&logoColor=F80000") ![](https://img.shields.io/badge/Maven-007396?style=flat&logo=apachemaven&logoColor=white")
 <!--
 **Hounds1/Hounds1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
