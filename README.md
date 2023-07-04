@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=11F781&background=000000&center=true&vCenter=true&multiline=true&width=844&height=90&lines=We+do+work+and+the+world+stays+handy;That's+the+development)](https://git.io/typing-svg)
 
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=onedark)
 ### Hi there 👋
 
 
