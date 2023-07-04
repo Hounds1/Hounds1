@@ -10,7 +10,11 @@
 ![](https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) </br>
 ![](https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white) ![](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white) </br>
 
-# Conntect Me
+# Target
+항상 조금 더 나은 무언가를 만들 수 있길 바랍니다.
+
+
+# Conntect
 ![](https://img.shields.io/badge/Gmail:zoodisx@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)
 
 <!--
