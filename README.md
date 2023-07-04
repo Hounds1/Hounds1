@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=11F781&multiline=true&repeat=true&width=435&lines=We+do+work+and+the+world+stays+handy;That's+the+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=11F781&center=true&vCenter=true&&multiline=true&repeat=true&width=435&lines=We+do+work+and+the+world+stays+handy;That's+the+development)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
