@@ -2,7 +2,7 @@
 
 
 
-![Hounds1's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=407&line_height=20&theme=dark) ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hounds1&layout=compact&theme=dark&card_width=400)
+![Hounds1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=407&line_height=20&theme=dark) ![Top Langs](https://github-readme.vercel.app/api/top-langs/?username=Hounds1&layout=compact&theme=dark&card_width=400)
 
 # Stacks
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) </br>
