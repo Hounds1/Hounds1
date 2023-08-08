@@ -2,7 +2,7 @@
 
 
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hounds1&theme=dark&line_height=40&hide=css"/> </a> <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=450&line_height=40&theme=dark"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hounds1&theme=dark&line_height=40&hide=css"/> </a> <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hounds1&show_icons=true&rank_icon=github&card_width=450&line_height=30&theme=dark"/> </a>
 
 # Stacks
 ![](https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white) </br>
